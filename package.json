@@ -1,0 +1,23 @@
+{
+  "name": "styled-components-with-material-ui-forked",
+  "version": "0.0.0",
+  "description": "Example project of a styled MUI button with Styled Components",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/mzwqkk1p7j",
+  "main": "index.js",
+  "dependencies": {
+    "styled-components": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "material-ui": "1.0.0-beta.29"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
